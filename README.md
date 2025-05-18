@@ -24,7 +24,7 @@ pip install -r req.txt
 
 
 ## License
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
 
 ## Contacts
 - **Telegram**: [@Menar_qq](https://t.me/Menar_qq)
